@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkproduct_jobs=self.webpackChunkproduct_jobs||[]).push([[5542],{6606:o=>{o.exports=JSON.parse('{"permalink":"/product_jobs/blog/tags/hello","page":1,"postsPerPage":10,"totalPages":1,"totalCount":2,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkproduct_jobs=self.webpackChunkproduct_jobs||[]).push([[9668],{8238:o=>{o.exports=JSON.parse('{"label":"hola","permalink":"/product_jobs/blog/tags/hola","allTagsPath":"/product_jobs/blog/tags","count":1}')}}]);

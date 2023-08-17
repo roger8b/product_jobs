@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkproduct_jobs=self.webpackChunkproduct_jobs||[]).push([[4064],{1612:o=>{o.exports=JSON.parse('{"label":"facebook","permalink":"/product_jobs/blog/tags/facebook","allTagsPath":"/product_jobs/blog/tags","count":1}')}}]);
